@@ -1,4 +1,4 @@
-# fintech-Profit-Optimization-for-SPY-Trading
+# fintech: Profit-Optimization-for-SPY-Trading
 ## Desciprtion:
 design trading strategies such that the total return of 4 stocks over a given period of time can be maximized.
 
