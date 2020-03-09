@@ -13,6 +13,7 @@
 3. The main program to call your function: projectEval.py. (At day i, the historical data contains all available information before or equal to day i−1
 
 ### My method:
-you can see my implementation with details in final_report.pdf 
+1. you can see my implementation with details in final_report.pdf 
+2. fintech KD.xlsx is printed out by using the KD indicator as my investment strategy.
 
 ### Return Rate: 353%
