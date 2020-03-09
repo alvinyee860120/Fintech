@@ -13,5 +13,6 @@
 3. The main program to call your function: projectEval.py. (At day i, the historical data contains all available information before or equal to day i−1
 
 ### My method:
-you can check it out details in final_report.pdf 
+you can see my implementation with details in final_report.pdf 
 
+### Return Rate: 353%
