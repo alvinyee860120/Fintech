@@ -1,4 +1,4 @@
-# Fintech: ohkc-Extraction
+# Fintech: ohlc-Extraction
 ## Task: 
 Compute the OHLC (open, high, low, close) prices of 台指期 within a given date based on minute-based trading record. The input file is a csv file recording minute-based trading data, which can be download from the following link:
 前30個交易日期貨每筆成交資料
